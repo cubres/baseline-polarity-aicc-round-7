@@ -7,10 +7,10 @@ The notebook uses WordNet synonym/antonym evidence, simple morphology rules, a c
 ## Files
 
 - `baseline-polarity-aicc-round-7.ipynb` - optimized solution notebook.
+- `train.csv` - competition training data used by the notebook.
+- `test.csv` - competition test data used by the notebook.
 - `submission.csv` - generated submission.
 - `kernel-metadata.json` - Kaggle kernel metadata for uploading the notebook.
-
-The Kaggle data files are intentionally not committed. Download `train.csv` and `test.csv` from the competition or run the notebook on Kaggle.
 
 ## Local Result
 
